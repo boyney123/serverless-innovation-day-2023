@@ -6,7 +6,6 @@
 
 
 ### Group A - Event-Driven Architecture
-
 - [Visualizing the fundamentals of Event-Driven Architectures by David Boyne](https://www.youtube.com/live/KEMRyxf2oPk?feature=share&t=2901)
     - Event-driven architectures (EDA) are becoming increasingly popular for building scalable and resilient distributed systems. However, understanding the fundamentals of EDA can be a challenge due to their complex and asynchronous nature. In this talk, we will explore the fundamentals of EDA, patterns that can help and help you gain a better understanding of the key concepts behind EDA.
 
