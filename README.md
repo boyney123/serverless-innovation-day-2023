@@ -66,4 +66,5 @@ In this session, you will learn a robust approach to event design with Amazon Ev
 - [Building interactive applications with AWS Lambda](https://www.youtube.com/live/KEMRyxf2oPk?feature=share&t=23253)
   - In this session, learn best practices and architectural patterns for building web and mobile backends as well as API-driven microservices on AWS Lambda. Explore how to take advantage of features in AWS Lambda, Amazon API Gateway, Amazon DynamoDB, and more to easily build highly scalable serverless web applications.
 
+### Closing 
 - [Closing Remarks with Usman Khalid, GM, Events & Workflows, AWS](https://www.youtube.com/live/KEMRyxf2oPk?feature=share&t=24956)
