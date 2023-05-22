@@ -1,5 +1,12 @@
 # AWS Serverless Innovation Day 2023
 
+![image](https://github.com/boyney123/serverless-innovation-day-2023/assets/3268013/2b165c61-a767-46a2-b0cd-35faed17b787)
+
+The AWS Serverless Innovation Day virtual event hosted on the Twitch AWS channel. A showcase of AWS serverless technology choices such as AWS Lambda, Amazon ECS with AWS Fargate, Amazon EventBridge, and AWS Step Functions. In addition, watch serverless modernization success stories, use cases, and best practices.
+
+---
+
+
 - [Keynote – Modernize with AWS Serverless with Holly Mesrobian, VP, Serverless Compute](https://www.youtube.com/live/KEMRyxf2oPk?feature=share&t=1023)
 
 - [Your Questions with Ajay Nair, GM, Lambda, AWS](https://www.youtube.com/live/KEMRyxf2oPk?feature=share&t=1572)
