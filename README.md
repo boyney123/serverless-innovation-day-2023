@@ -6,6 +6,7 @@
 
 ---
 
+### Opening
 
 - [Keynote – Modernize with AWS Serverless with Holly Mesrobian, VP, Serverless Compute](https://www.youtube.com/live/KEMRyxf2oPk?feature=share&t=1023)
 
